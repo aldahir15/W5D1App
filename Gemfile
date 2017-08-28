@@ -50,6 +50,8 @@ group :development, :test do
   gem 'factory_girl_rails'
   gem 'shoulda-matchers', '~>3.1'
   gem 'rails-controller-testing'
+  gem 'annotate'
+  gem 'pry-rails'
 
 end
 
